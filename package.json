@@ -1,5 +1,8 @@
 {
-  "name"    : "electron-test",
-  "version" : "0.1.0",
-  "main"    : "main.js"
+  "name": "electron-test",
+  "version": "0.1.0",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^1.7.5"
+  }
 }
